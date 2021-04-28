@@ -1,0 +1,14 @@
+h1 {	border-style: dotted;
+	background-color: red;
+	font-size:100px;
+	position: relative;
+	color: white;
+	margin: 60px;}	
+	
+p {	border-style:solid;
+	background-color: yellow;
+	font-size: 20;
+	position: absolute;
+	color: black;
+	margin: 30px;
+}		
